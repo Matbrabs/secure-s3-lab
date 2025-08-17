@@ -11,4 +11,6 @@ Now turning permissions OFF, public access allowed
 <img width="640" height="289" alt="image" src="https://github.com/user-attachments/assets/8a9285d2-1f69-46ef-b07b-5b258115d800" />
 Now link is able to be opened, resulting in file opening without access denied 
 <img width="956" height="112" alt="image" src="https://github.com/user-attachments/assets/b35b7ccd-15d4-4e54-b897-39f8cbd7d053" />
+Made sure to check encryption on bucket, default is set to SSE-S3. No further changes to be made 
+<img width="954" height="514" alt="image" src="https://github.com/user-attachments/assets/3300ddab-dace-4b9a-a425-11d59143c30a" />
 
